@@ -1,7 +1,7 @@
 <!--
   johanna nguyen — github profile readme
   palette: soft pink / sage-mint / light blue / cream
-  pixel icons live in assets/icons/ — keep that folder in your repo (johannanguyen1/johannanguyen1)
+  pixel icons live in assets/pixel-pack/svg/ — keep that folder in your repo (johannanguyen1/johannanguyen1)
   so the <img> tags below resolve. swap hex codes in badge urls to re-theme.
 -->
 
@@ -9,25 +9,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=560&height=50&lines=hi%2C+i'm+johanna;systems+%2B+security+enthusiast;brown+cs+%2B+applied+math" alt="typing banner" />
 
-<img src="assets/icons/pixel-fish.svg" width="40" />
+<img src="assets/pixel-pack/svg/ocean/fish.svg" width="40" />
 
 **providence, ri · brown university · currently @ preveil**
 
 </div>
 
 <p align="center">
-<img src="assets/icons/pixel-wave.svg" width="140" />
+<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
 </p>
 
-## <img src="assets/icons/pixel-leaf.svg" width="20" valign="middle" /> about me
+## <img src="assets/pixel-pack/svg/plants/monstera-leaf.svg" width="20" valign="middle" /> about me
 
 junior at brown studying applied math–cs, focused on systems and security. i like software that stays close to the hardware — crypto backends, embedded firmware, custom network stacks. currently at **preveil**, unifying cryptography across desktop, ios, android, and web. previously at **pratt & whitney (rtx)**, verifying jet engine control software.
 
 <p align="center">
-<img src="assets/icons/pixel-wave.svg" width="140" />
+<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
 </p>
 
-## <img src="assets/icons/pixel-chip.svg" width="20" valign="middle" /> tech stack
+## <img src="assets/pixel-pack/svg/decor/frame.svg" width="20" valign="middle" /> tech stack
 
 **languages**
 <br/>
@@ -72,10 +72,10 @@ junior at brown studying applied math–cs, focused on systems and security. i l
 <img src="https://img.shields.io/badge/cryptopp-A8D5BA?style=flat-square&labelColor=FDF6EC" />
 
 <p align="center">
-<img src="assets/icons/pixel-wave.svg" width="140" />
+<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
 </p>
 
-## <img src="assets/icons/pixel-star.svg" width="20" valign="middle" /> featured projects
+## <img src="assets/pixel-pack/svg/sky/star-sparkle.svg" width="20" valign="middle" /> featured projects
 
 <table width="100%">
 <tr>
@@ -121,10 +121,10 @@ brown formula racing's first digital dashboard, deployed on the 2025 competition
 </table>
 
 <p align="center">
-<img src="assets/icons/pixel-wave.svg" width="140" />
+<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
 </p>
 
-## <img src="assets/icons/pixel-chip.svg" width="20" valign="middle" /> experience
+## <img src="assets/pixel-pack/svg/nature/mountain-peaks.svg" width="20" valign="middle" /> experience
 
 ```
 2026–present   software engineering intern, preveil
@@ -141,25 +141,25 @@ brown formula racing's first digital dashboard, deployed on the 2025 competition
 ```
 
 <p align="center">
-<img src="assets/icons/pixel-wave.svg" width="140" />
+<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
 </p>
 
-## <img src="assets/icons/pixel-flower.svg" width="20" valign="middle" /> currently
+## <img src="assets/pixel-pack/svg/plants/wildflowers.svg" width="20" valign="middle" /> currently
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><img src="assets/icons/pixel-leaf.svg" width="18"/><br/>learning<br/><sub>kotlin multiplatform architecture</sub></td>
-<td width="25%" align="center"><img src="assets/icons/pixel-flower.svg" width="18"/><br/>reading<br/><sub>add your current book here</sub></td>
-<td width="25%" align="center"><img src="assets/icons/pixel-chip.svg" width="18"/><br/>exploring<br/><sub>quantum algorithms</sub></td>
-<td width="25%" align="center"><img src="assets/icons/pixel-star.svg" width="18"/><br/>goals<br/><sub>go deeper on systems + security</sub></td>
+<td width="25%" align="center"><img src="assets/pixel-pack/svg/plants/leaf-small.svg" width="18"/><br/>learning<br/><sub>kotlin multiplatform architecture</sub></td>
+<td width="25%" align="center"><img src="assets/pixel-pack/svg/plants/wildflowers.svg" width="18"/><br/>reading<br/><sub>add your current book here</sub></td>
+<td width="25%" align="center"><img src="assets/pixel-pack/svg/sky/constellation.svg" width="18"/><br/>exploring<br/><sub>quantum algorithms</sub></td>
+<td width="25%" align="center"><img src="assets/pixel-pack/svg/sky/star-sparkle.svg" width="18"/><br/>goals<br/><sub>go deeper on systems + security</sub></td>
 </tr>
 </table>
 
 <p align="center">
-<img src="assets/icons/pixel-wave.svg" width="140" />
+<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
 </p>
 
-## <img src="assets/icons/pixel-leaf.svg" width="20" valign="middle" /> interests
+## <img src="assets/pixel-pack/svg/plants/fern.svg" width="20" valign="middle" /> interests
 
 <p align="center">
 <img src="https://img.shields.io/badge/systems%20programming-FFD6E0?style=flat-square&labelColor=FDF6EC" />
@@ -171,20 +171,20 @@ brown formula racing's first digital dashboard, deployed on the 2025 competition
 </p>
 
 <p align="center">
-<img src="assets/icons/pixel-wave.svg" width="140" />
+<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
 </p>
 
-## <img src="assets/icons/pixel-star.svg" width="20" valign="middle" /> fun facts
+## <img src="assets/pixel-pack/svg/sky/shooting-star.svg" width="20" valign="middle" /> fun facts
 
 - wrote the onboarding handbook that let a 6-person subteam build their own can-integrated shift-light
 - took 3rd at iquhack mit running algorithms on real quantum hardware, not just simulators
 - turned an 8-hour manual calibration process into under 10 minutes
 
 <p align="center">
-<img src="assets/icons/pixel-wave.svg" width="140" />
+<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
 </p>
 
-## <img src="assets/icons/pixel-chip.svg" width="20" valign="middle" /> github stats
+## <img src="assets/pixel-pack/svg/nature/rock.svg" width="20" valign="middle" /> github stats
 
 <div align="center">
 
@@ -198,10 +198,10 @@ brown formula racing's first digital dashboard, deployed on the 2025 competition
 </div>
 
 <p align="center">
-<img src="assets/icons/pixel-wave.svg" width="140" />
+<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
 </p>
 
-## <img src="assets/icons/pixel-flower.svg" width="20" valign="middle" /> contact
+## <img src="assets/pixel-pack/svg/plants/potted-plant.svg" width="20" valign="middle" /> contact
 
 <p align="center">
 <a href="https://github.com/johannanguyen1"><img src="https://img.shields.io/badge/github-283618?style=flat-square&logo=github&logoColor=FFD6E0" /></a>
@@ -211,7 +211,7 @@ brown formula racing's first digital dashboard, deployed on the 2025 competition
 
 <div align="center">
 
-<img src="assets/icons/pixel-fish.svg" width="32" />
+<img src="assets/pixel-pack/svg/ocean/koi.svg" width="32" />
 
 thanks for stopping by
 
