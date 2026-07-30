@@ -85,7 +85,7 @@ junior at brown studying applied math–cs, focused on systems and security. i l
 
 user-space tcp/ip stack built from rfc 9293, 3.6x faster than the course reference implementation. full tcp state machine, socket multiplexing, retransmission timers, sliding-window flow control.
 
-`github.com/johannanguyen1/reliable-transport-protocol` *(placeholder — link your repo)*
+`github.com/johannanguyen1/reliable-transport-protocol` *(https://github.com/johannanguyen1/tcp-ip)*
 
 </td>
 <td width="50%" valign="top">
@@ -94,7 +94,7 @@ user-space tcp/ip stack built from rfc 9293, 3.6x faster than the course referen
 
 extended a crypto voting protocol for k-of-n ballots under public-key encryption. hmac integrity checks and a custom zkp wrapper for client-side ballot verification.
 
-`github.com/johannanguyen1/secure-voting-system` *(placeholder — link your repo)*
+`github.com/johannanguyen1/secure-voting-system` *(https://github.com/johannanguyen1/secure-multi-candidate-voting)*
 
 </td>
 </tr>
@@ -105,7 +105,7 @@ extended a crypto voting protocol for k-of-n ballots under public-key encryption
 
 multipartite entanglement detection using witness operators and stabilizer circuits, verified across 12 qubits on real nisq hardware.
 
-`github.com/johannanguyen1/quantum-entanglement-benchmark` *(placeholder — link your repo)*
+`github.com/johannanguyen1/quantum-entanglement-benchmark` *(https://github.com/johannanguyen1/iqm-iquhack-2026)*
 
 </td>
 <td width="50%" valign="top">
@@ -114,7 +114,7 @@ multipartite entanglement detection using witness operators and stabilizer circu
 
 brown formula racing's first digital dashboard, deployed on the 2025 competition car. spi driver for the mcp2515 can controller with a tiered refresh scheduler.
 
-`github.com/johannanguyen1/fsae-digital-dashboard` *(placeholder — link your repo)*
+`github.com/johannanguyen1/fsae-digital-dashboard` *(https://github.com/johannanguyen1/FSAE-driver-controls-digital-dashboard)*
 
 </td>
 </tr>
@@ -148,10 +148,10 @@ brown formula racing's first digital dashboard, deployed on the 2025 competition
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><img src="assets/pixel-pack/svg/plants/leaf-small.svg" width="18"/><br/>learning<br/><sub>kotlin multiplatform architecture</sub></td>
-<td width="25%" align="center"><img src="assets/pixel-pack/svg/plants/wildflowers.svg" width="18"/><br/>reading<br/><sub>add your current book here</sub></td>
-<td width="25%" align="center"><img src="assets/pixel-pack/svg/sky/constellation.svg" width="18"/><br/>exploring<br/><sub>quantum algorithms</sub></td>
-<td width="25%" align="center"><img src="assets/pixel-pack/svg/sky/star-sparkle.svg" width="18"/><br/>goals<br/><sub>go deeper on systems + security</sub></td>
+<td width="25%" align="center"><img src="assets/pixel-pack/svg/plants/leaf-small.svg" width="18"/><br/>learning<br/><sub>kotlin multiplatform & FIPS 140-3</sub></td>
+<td width="25%" align="center"><img src="assets/pixel-pack/svg/plants/wildflowers.svg" width="18"/><br/>reading<br/><sub>the stranger by albert camus</sub></td>
+<td width="25%" align="center"><img src="assets/pixel-pack/svg/sky/constellation.svg" width="18"/><br/>exploring<br/><sub>post quantum cryptography</sub></td>
+<td width="25%" align="center"><img src="assets/pixel-pack/svg/sky/star-sparkle.svg" width="18"/><br/>goals<br/><sub>take a course in embedded systems/robotics</sub></td>
 </tr>
 </table>
 
@@ -167,39 +167,12 @@ brown formula racing's first digital dashboard, deployed on the 2025 competition
 <img src="https://img.shields.io/badge/embedded%20%26%20robotics-BEE3F8?style=flat-square&labelColor=FDF6EC" />
 <img src="https://img.shields.io/badge/networking-FFD6E0?style=flat-square&labelColor=FDF6EC" />
 <img src="https://img.shields.io/badge/quantum%20computing-A8D5BA?style=flat-square&labelColor=FDF6EC" />
-<img src="https://img.shields.io/badge/open%20source-BEE3F8?style=flat-square&labelColor=FDF6EC" />
 </p>
 
 <p align="center">
 <img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
 </p>
 
-## <img src="assets/pixel-pack/svg/sky/shooting-star.svg" width="20" valign="middle" /> fun facts
-
-- wrote the onboarding handbook that let a 6-person subteam build their own can-integrated shift-light
-- took 3rd at iquhack mit running algorithms on real quantum hardware, not just simulators
-- turned an 8-hour manual calibration process into under 10 minutes
-
-<p align="center">
-<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
-</p>
-
-## <img src="assets/pixel-pack/svg/nature/rock.svg" width="20" valign="middle" /> github stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=johannanguyen1&show_icons=true&hide_title=true&hide_border=true&bg_color=FDF6EC&title_color=F7A8B8&icon_color=A8D5BA&text_color=283618" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannanguyen1&layout=compact&hide_border=true&bg_color=FDF6EC&title_color=F7A8B8&text_color=283618" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johannanguyen1&hide_border=true&background=FDF6EC&stroke=F7A8B8&ring=A8D5BA&fire=F7A8B8&currStreakLabel=283618&sideLabels=283618&dates=283618&currStreakNum=283618&sideNums=283618" />
-
-</div>
-
-<p align="center">
-<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
-</p>
 
 ## <img src="assets/pixel-pack/svg/plants/potted-plant.svg" width="20" valign="middle" /> contact
 
