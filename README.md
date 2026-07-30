@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=560&height=50&lines=hi%2C+i'm+johanna <3;systems+%2B+security+enthusiast;brown+cs+%2B+applied+math" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=560&height=50&lines=hi%2C+i'm+johanna+<3;systems+%2B+security+enthusiast;brown+cs+%2B+applied+math" alt="typing banner" />
 
 <img src="assets/pixel-pack/svg/ocean/fish.svg" width="40" />
 
