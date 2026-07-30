@@ -159,20 +159,6 @@ brown formula racing's first digital dashboard, deployed on the 2025 competition
 <img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
 </p>
 
-## <img src="assets/pixel-pack/svg/plants/fern.svg" width="20" valign="middle" /> interests
-
-<p align="center">
-<img src="https://img.shields.io/badge/systems%20programming-FFD6E0?style=flat-square&labelColor=FDF6EC" />
-<img src="https://img.shields.io/badge/applied%20cryptography-A8D5BA?style=flat-square&labelColor=FDF6EC" />
-<img src="https://img.shields.io/badge/embedded%20%26%20robotics-BEE3F8?style=flat-square&labelColor=FDF6EC" />
-<img src="https://img.shields.io/badge/networking-FFD6E0?style=flat-square&labelColor=FDF6EC" />
-<img src="https://img.shields.io/badge/quantum%20computing-A8D5BA?style=flat-square&labelColor=FDF6EC" />
-</p>
-
-<p align="center">
-<img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
-</p>
-
 
 ## <img src="assets/pixel-pack/svg/plants/potted-plant.svg" width="20" valign="middle" /> contact
 
