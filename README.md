@@ -21,7 +21,7 @@
 
 ## <img src="assets/pixel-pack/svg/plants/monstera-leaf.svg" width="20" valign="middle" /> about me
 
-junior at brown studying applied math–cs, focused on systems and security. i like software that stays close to the hardware — crypto backends, embedded firmware, custom network stacks. currently at **preveil**, unifying cryptography across desktop, ios, android, and web. previously at **pratt & whitney (rtx)**, verifying jet engine control software.
+senior at brown studying applied math–cs, focused on systems and security. i like software that stays close to the hardware, including but not explusive to: crypto backends, embedded firmware, custom network stacks. currently at **preveil**, unifying cryptography across desktop, ios, android, and web. previously at **pratt & whitney (rtx)**, verifying jet engine control software.
 
 <p align="center">
 <img src="assets/pixel-pack/svg/decor/divider-wave.svg" width="140" />
