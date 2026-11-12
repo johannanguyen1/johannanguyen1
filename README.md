@@ -130,17 +130,25 @@ brown formula racing's first digital dashboard, deployed on the 2025 competition
 | Period | Role & Organization | Key Highlights |
 | :--- | :--- | :--- |
 | **May 2026–Aug 2026** | **Software Engineering Intern**<br/>*PreVeil* | Architected platform-agnostic crypto interface in Kotlin Multiplatform unifying 8 backends (libsodium, FIPS 140-3) across iOS, Android, Desktop, and Web. |
+| **Feb 2025–Present** | **BDW Monitor**<br/>*Brown Design Workshop* | Taught Arduino embedded systems curriculum, microcontrollers, and low-level debugging to 50+ participants. |
 | **Aug 2025–Dec 2025** | **UTRA Research Fellow**<br/>*CarettaLab @ Brown* | Deployed distributed IoT network (ESP32 + Pi) via Modbus RTU & MQTT/Slack API for overnight chiller fault alerting. |
 | **May 2025–Aug 2025** | **Software Verification Intern**<br/>*Pratt & Whitney (RTX)* | Automated EVB calibration (8 hrs → <10 min) across 135+ sensors; authored 100+ closed-loop DO-178C HIL integration tests for F135 ECU. |
-| **Sep 2023–Oct 2025** | **Driver Controls Lead**<br/>*Brown Formula Racing (FSAE)* | Built team's first digital dashboard on Teensy 4.1 MCU; led 4-person subteam & authored CAN telemetry onboarding handbook. |
+| **Jun 2024–Aug 2024** | **Research Intern**<br/>*Sivil* | Co-led police directory aggregation (18k agencies) and redesigned portal, cutting submission time by 90% for 170k+ users. |
 
 ---
+
+## 🛠️ leadership & community
+
+* **Women Build @ Brown — Co-President** *(Jan 2024 – Present)*
+  * Founded and scaled an inclusive maker community to 300+ members; led 10+ hands-on engineering workshops, managed budgets, and secured sponsorships.
+* **Brown Formula Racing (FSAE) — Driver Controls Lead** *(Sep 2023 – Oct 2025)*
+  * Built team's first digital dashboard on Teensy 4.1 MCU over CAN bus; authored technical onboarding handbook for driver controls subteam.
 
 ## 🌸 currently
 
 <table width="100%">
 <tr>
-<td width="25%" align="center">🌱<br/><b>learning</b><br/><sub>kotlin multiplatform & FIPS 140-3</sub></td>
+<td width="25%" align="center">🌱<br/><b>building</b><br/><sub>CAN protocol from scratch</sub></td>
 <td width="25%" align="center">📖<br/><b>reading</b><br/><sub>the stranger by albert camus</sub></td>
 <td width="25%" align="center">🌌<br/><b>exploring</b><br/><sub>post-quantum cryptography</sub></td>
 <td width="25%" align="center">🎯<br/><b>goals</b><br/><sub>embedded systems & real-time software</sub></td>
