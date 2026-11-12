@@ -15,7 +15,7 @@
 
 ## 🌿 about me
 
-senior at brown university pursuing a b.s. in computer science and a b.a. in applied mathematics (gpa: 3.81). focused on systems and security software that operates close to the hardware.
+senior at brown university pursuing a b.s. in computer science and a b.a. in applied mathematics (gpa: 3.81). focused on systems and security software that operates at the intersection of low-level hardware.
 
 currently at **preveil** architecting platform-agnostic cryptographic interfaces. previously at **pratt & whitney (rtx)** verifying F135 jet engine control software, and **brown formula racing** leading driver controls.
 
@@ -127,22 +127,22 @@ brown formula racing's first digital dashboard, deployed on the 2025 competition
 
 ## 🏔️ experience
 
-| Period | Role & Organization | Key Highlights |
+| period | role & organization | highlights |
 | :--- | :--- | :--- |
-| **May 2026–Aug 2026** | **Software Engineering Intern**<br/>*PreVeil* | Architected platform-agnostic crypto interface in Kotlin Multiplatform unifying 8 backends (libsodium, FIPS 140-3) across iOS, Android, Desktop, and Web. |
-| **Feb 2025–Present** | **BDW Monitor**<br/>*Brown Design Workshop* | Taught Arduino embedded systems curriculum, microcontrollers, and low-level debugging to 50+ participants. |
-| **Aug 2025–Dec 2025** | **UTRA Research Fellow**<br/>*CarettaLab @ Brown* | Deployed distributed IoT network (ESP32 + Pi) via Modbus RTU & MQTT/Slack API for overnight chiller fault alerting. |
-| **May 2025–Aug 2025** | **Software Verification Intern**<br/>*Pratt & Whitney (RTX)* | Automated EVB calibration (8 hrs → <10 min) across 135+ sensors; authored 100+ closed-loop DO-178C HIL integration tests for F135 ECU. |
-| **Jun 2024–Aug 2024** | **Research Intern**<br/>*Sivil* | Co-led police directory aggregation (18k agencies) and redesigned portal, cutting submission time by 90% for 170k+ users. |
+| **may 2026–aug 2026** | **software engineering intern**<br/>*preveil* | architected platform-agnostic crypto interface in kotlin multiplatform unifying 8 backends (libsodium, FIPS 140-3) across iOS, android, desktop, and web. |
+| **feb 2025–present** | **BDW monitor**<br/>*brown design workshop* | taught arduino-based embedded systems curriculum, microcontrollers, and low-level debugging to 50+ participants. |
+| **aug 2025–dec 2025** | **UTRA research fellow**<br/>*carettalab @ brown* | deployed distributed IoT network (ESP32 + pi) via modbus RTU & MQTT/slack API for overnight chiller fault alerting. |
+| **may 2025–aug 2025** | **engine system software verification intern**<br/>*pratt & whitney (RTX)* | automated EVB calibration (8 hrs → <10 min) across 135+ sensors; authored 100+ closed-loop DO-178C HIL integration tests for F135 ECU. |
+| **jun 2024–aug 2024** | **research intern**<br/>*Sivil* | co-led police directory aggregation (18k agencies) and redesigned portal, cutting submission time by 90% for 170k+ users. |
 
 ---
 
 ## 🛠️ leadership & community
 
-* **Women Build @ Brown — Co-President** *(Jan 2024 – Present)*
-  * Founded and scaled an inclusive maker community to 300+ members; led 10+ hands-on engineering workshops, managed budgets, and secured sponsorships.
-* **Brown Formula Racing (FSAE) — Driver Controls Lead** *(Sep 2023 – Oct 2025)*
-  * Built team's first digital dashboard on Teensy 4.1 MCU over CAN bus; authored technical onboarding handbook for driver controls subteam.
+* **women build @ brown — co-president** *(jan 2024 – present)*
+  * founded and scaled an inclusive maker community to 300+ members; led 10+ hands-on engineering workshops, managed budgets, and secured sponsorships.
+* **brown formula racing (FSAE) — driver controls lead** *(sep 2023 – oct 2025)*
+  * built team's first digital dashboard on teensy 4.1 MCU over CAN bus; authored technical onboarding handbook for driver controls subteam.
 
 ## 🌸 currently
 
